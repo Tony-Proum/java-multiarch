@@ -1,0 +1,3 @@
+ARG ARCH_PREFIX
+FROM ${ARCH_PREFIX}openjdk:8-jdk
+
